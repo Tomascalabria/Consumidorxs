@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    height: auto;
+    padding: 0;  
+    width: 100%;
+    scroll-behavior: smooth;
+}
+
+@import './Components/NavBar/NavBar.scss';
+@import'./Components/Main/Main.scss'
